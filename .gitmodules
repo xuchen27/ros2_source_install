@@ -1,0 +1,441 @@
+[submodule "ros2/rolling/src/gazebo-release/gz_math6_vendor"]
+	path = ros2/rolling/src/gazebo-release/gz_math6_vendor
+	url = https://github.com/gazebo-release/gz_math6_vendor.git
+[submodule "ros2/rolling/src/gazebo-release/gz_cmake2_vendor"]
+	path = ros2/rolling/src/gazebo-release/gz_cmake2_vendor
+	url = https://github.com/gazebo-release/gz_cmake2_vendor.git
+[submodule "ros2/rolling/src/eProsima/Fast-DDS"]
+	path = ros2/rolling/src/eProsima/Fast-DDS
+	url = https://github.com/eProsima/Fast-DDS.git
+[submodule "ros2/rolling/src/eProsima/Fast-CDR"]
+	path = ros2/rolling/src/eProsima/Fast-CDR
+	url = https://github.com/eProsima/Fast-CDR.git
+[submodule "ros2/rolling/src/eProsima/foonathan_memory_vendor"]
+	path = ros2/rolling/src/eProsima/foonathan_memory_vendor
+	url = https://github.com/eProsima/foonathan_memory_vendor.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_publisher"]
+	path = ros2/rolling/src/ros-visualization/rqt_publisher
+	url = https://github.com/ros-visualization/rqt_publisher.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_plot"]
+	path = ros2/rolling/src/ros-visualization/rqt_plot
+	url = https://github.com/ros-visualization/rqt_plot.git
+[submodule "ros2/rolling/src/ros-visualization/rqt"]
+	path = ros2/rolling/src/ros-visualization/rqt
+	url = https://github.com/ros-visualization/rqt.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_topic"]
+	path = ros2/rolling/src/ros-visualization/rqt_topic
+	url = https://github.com/ros-visualization/rqt_topic.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_shell"]
+	path = ros2/rolling/src/ros-visualization/rqt_shell
+	url = https://github.com/ros-visualization/rqt_shell.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_graph"]
+	path = ros2/rolling/src/ros-visualization/rqt_graph
+	url = https://github.com/ros-visualization/rqt_graph.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_action"]
+	path = ros2/rolling/src/ros-visualization/rqt_action
+	url = https://github.com/ros-visualization/rqt_action.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_bag"]
+	path = ros2/rolling/src/ros-visualization/rqt_bag
+	url = https://github.com/ros-visualization/rqt_bag.git
+[submodule "ros2/rolling/src/ros-visualization/interactive_markers"]
+	path = ros2/rolling/src/ros-visualization/interactive_markers
+	url = https://github.com/ros-visualization/interactive_markers.git
+[submodule "ros2/rolling/src/ros-visualization/pcl_msgs"]
+	path = ros2/rolling/src/ros-visualization/pcl_msgs
+	url = https://github.com/ros-perception/pcl_msgs.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_py_console"]
+	path = ros2/rolling/src/ros-visualization/rqt_py_console
+	url = https://github.com/ros-visualization/rqt_py_console.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_msg"]
+	path = ros2/rolling/src/ros-visualization/rqt_msg
+	url = https://github.com/ros-visualization/rqt_msg.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_console"]
+	path = ros2/rolling/src/ros-visualization/rqt_console
+	url = https://github.com/ros-visualization/rqt_console.git
+[submodule "ros2/rolling/src/ros-visualization/tango_icons_vendor"]
+	path = ros2/rolling/src/ros-visualization/tango_icons_vendor
+	url = https://github.com/ros-visualization/tango_icons_vendor.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_reconfigure"]
+	path = ros2/rolling/src/ros-visualization/rqt_reconfigure
+	url = https://github.com/ros-visualization/rqt_reconfigure.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_srv"]
+	path = ros2/rolling/src/ros-visualization/rqt_srv
+	url = https://github.com/ros-visualization/rqt_srv.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_service_caller"]
+	path = ros2/rolling/src/ros-visualization/rqt_service_caller
+	url = https://github.com/ros-visualization/rqt_service_caller.git
+[submodule "ros2/rolling/src/ros-visualization/qt_gui_core"]
+	path = ros2/rolling/src/ros-visualization/qt_gui_core
+	url = https://github.com/ros-visualization/qt_gui_core.git
+[submodule "ros2/rolling/src/ros-visualization/python_qt_binding"]
+	path = ros2/rolling/src/ros-visualization/python_qt_binding
+	url = https://github.com/ros-visualization/python_qt_binding.git
+[submodule "ros2/rolling/src/ros-visualization/rqt_image_view"]
+	path = ros2/rolling/src/ros-visualization/rqt_image_view
+	url = https://github.com/ros-visualization/rqt_image_view.git
+[submodule "ros2/rolling/src/ros-perception/imu_pipeline"]
+	path = ros2/rolling/src/ros-perception/imu_pipeline
+	url = https://github.com/ros-perception/imu_pipeline.git
+[submodule "ros2/rolling/src/ros-perception/perception_pcl"]
+	path = ros2/rolling/src/ros-perception/perception_pcl
+	url = https://github.com/ros-perception/perception_pcl.git
+[submodule "ros2/rolling/src/ros-perception/depthimage_to_laserscan"]
+	path = ros2/rolling/src/ros-perception/depthimage_to_laserscan
+	url = https://github.com/ros-perception/depthimage_to_laserscan.git
+[submodule "ros2/rolling/src/ros-perception/pointcloud_to_laserscan"]
+	path = ros2/rolling/src/ros-perception/pointcloud_to_laserscan
+	url = https://github.com/ros-perception/pointcloud_to_laserscan.git
+[submodule "ros2/rolling/src/ros-perception/vision_msgs"]
+	path = ros2/rolling/src/ros-perception/vision_msgs
+	url = https://github.com/ros-perception/vision_msgs.git
+[submodule "ros2/rolling/src/ros-perception/vision_opencv"]
+	path = ros2/rolling/src/ros-perception/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+[submodule "ros2/rolling/src/ros-perception/image_common"]
+	path = ros2/rolling/src/ros-perception/image_common
+	url = https://github.com/ros-perception/image_common.git
+[submodule "ros2/rolling/src/ros-perception/laser_geometry"]
+	path = ros2/rolling/src/ros-perception/laser_geometry
+	url = https://github.com/ros-perception/laser_geometry.git
+[submodule "ros2/rolling/src/ros-perception/image_transport_plugins"]
+	path = ros2/rolling/src/ros-perception/image_transport_plugins
+	url = https://github.com/ros-perception/image_transport_plugins.git
+[submodule "ros2/rolling/src/ros/kdl_parser"]
+	path = ros2/rolling/src/ros/kdl_parser
+	url = https://github.com/ros/kdl_parser.git
+[submodule "ros2/rolling/src/ros/ros_environment"]
+	path = ros2/rolling/src/ros/ros_environment
+	url = https://github.com/ros/ros_environment.git
+[submodule "ros2/rolling/src/ros/ros_tutorials"]
+	path = ros2/rolling/src/ros/ros_tutorials
+	url = https://github.com/ros/ros_tutorials.git
+[submodule "ros2/rolling/src/ros/urdfdom"]
+	path = ros2/rolling/src/ros/urdfdom
+	url = https://github.com/ros/urdfdom.git
+[submodule "ros2/rolling/src/ros/resource_retriever"]
+	path = ros2/rolling/src/ros/resource_retriever
+	url = https://github.com/ros/resource_retriever.git
+[submodule "ros2/rolling/src/ros/robot_state_publisher"]
+	path = ros2/rolling/src/ros/robot_state_publisher
+	url = https://github.com/ros/robot_state_publisher.git
+[submodule "ros2/rolling/src/ros/urdfdom_headers"]
+	path = ros2/rolling/src/ros/urdfdom_headers
+	url = https://github.com/ros/urdfdom_headers.git
+[submodule "ros2/rolling/src/ros/class_loader"]
+	path = ros2/rolling/src/ros/class_loader
+	url = https://github.com/ros/class_loader.git
+[submodule "ros2/rolling/src/ros/pluginlib"]
+	path = ros2/rolling/src/ros/pluginlib
+	url = https://github.com/ros/pluginlib.git
+[submodule "ros2/rolling/src/osrf/osrf_testing_tools_cpp"]
+	path = ros2/rolling/src/osrf/osrf_testing_tools_cpp
+	url = https://github.com/osrf/osrf_testing_tools_cpp.git
+[submodule "ros2/rolling/src/osrf/osrf_pycommon"]
+	path = ros2/rolling/src/osrf/osrf_pycommon
+	url = https://github.com/osrf/osrf_pycommon.git
+[submodule "ros2/rolling/src/eclipse-iceoryx/iceoryx"]
+	path = ros2/rolling/src/eclipse-iceoryx/iceoryx
+	url = https://github.com/eclipse-iceoryx/iceoryx.git
+[submodule "ros2/rolling/src/ros2/realtime_support"]
+	path = ros2/rolling/src/ros2/realtime_support
+	url = https://github.com/ros2/realtime_support.git
+[submodule "ros2/rolling/src/ros2/pybind11_vendor"]
+	path = ros2/rolling/src/ros2/pybind11_vendor
+	url = https://github.com/ros2/pybind11_vendor.git
+[submodule "ros2/rolling/src/ros2/ament_cmake_ros"]
+	path = ros2/rolling/src/ros2/ament_cmake_ros
+	url = https://github.com/ros2/ament_cmake_ros.git
+[submodule "ros2/rolling/src/ros2/python_cmake_module"]
+	path = ros2/rolling/src/ros2/python_cmake_module
+	url = https://github.com/ros2/python_cmake_module.git
+[submodule "ros2/rolling/src/ros2/rosidl_core"]
+	path = ros2/rolling/src/ros2/rosidl_core
+	url = https://github.com/ros2/rosidl_core.git
+[submodule "ros2/rolling/src/ros2/rosidl_dds"]
+	path = ros2/rolling/src/ros2/rosidl_dds
+	url = https://github.com/ros2/rosidl_dds.git
+[submodule "ros2/rolling/src/ros2/yaml_cpp_vendor"]
+	path = ros2/rolling/src/ros2/yaml_cpp_vendor
+	url = https://github.com/ros2/yaml_cpp_vendor.git
+[submodule "ros2/rolling/src/ros2/tinyxml2_vendor"]
+	path = ros2/rolling/src/ros2/tinyxml2_vendor
+	url = https://github.com/ros2/tinyxml2_vendor.git
+[submodule "ros2/rolling/src/ros2/test_interface_files"]
+	path = ros2/rolling/src/ros2/test_interface_files
+	url = https://github.com/ros2/test_interface_files.git
+[submodule "ros2/rolling/src/ros2/rcl"]
+	path = ros2/rolling/src/ros2/rcl
+	url = https://github.com/ros2/rcl.git
+[submodule "ros2/rolling/src/ros2/libyaml_vendor"]
+	path = ros2/rolling/src/ros2/libyaml_vendor
+	url = https://github.com/ros2/libyaml_vendor.git
+[submodule "ros2/rolling/src/ros2/launch_ros"]
+	path = ros2/rolling/src/ros2/launch_ros
+	url = https://github.com/ros2/launch_ros.git
+[submodule "ros2/rolling/src/ros2/unique_identifier_msgs"]
+	path = ros2/rolling/src/ros2/unique_identifier_msgs
+	url = https://github.com/ros2/unique_identifier_msgs.git
+[submodule "ros2/rolling/src/ros2/system_tests"]
+	path = ros2/rolling/src/ros2/system_tests
+	url = https://github.com/ros2/system_tests.git
+[submodule "ros2/rolling/src/ros2/launch"]
+	path = ros2/rolling/src/ros2/launch
+	url = https://github.com/ros2/launch.git
+[submodule "ros2/rolling/src/ros2/rclcpp"]
+	path = ros2/rolling/src/ros2/rclcpp
+	url = https://github.com/ros2/rclcpp.git
+[submodule "ros2/rolling/src/ros2/rmw_connextdds"]
+	path = ros2/rolling/src/ros2/rmw_connextdds
+	url = https://github.com/ros2/rmw_connextdds.git
+[submodule "ros2/rolling/src/ros2/rosidl_typesupport_fastrtps"]
+	path = ros2/rolling/src/ros2/rosidl_typesupport_fastrtps
+	url = https://github.com/ros2/rosidl_typesupport_fastrtps.git
+[submodule "ros2/rolling/src/ros2/sros2"]
+	path = ros2/rolling/src/ros2/sros2
+	url = https://github.com/ros2/sros2.git
+[submodule "ros2/rolling/src/ros2/ros2_tracing"]
+	path = ros2/rolling/src/ros2/ros2_tracing
+	url = https://github.com/ros2/ros2_tracing.git
+[submodule "ros2/rolling/src/ros2/eigen3_cmake_module"]
+	path = ros2/rolling/src/ros2/eigen3_cmake_module
+	url = https://github.com/ros2/eigen3_cmake_module.git
+[submodule "ros2/rolling/src/ros2/demos"]
+	path = ros2/rolling/src/ros2/demos
+	url = https://github.com/ros2/demos.git
+[submodule "ros2/rolling/src/ros2/rcl_interfaces"]
+	path = ros2/rolling/src/ros2/rcl_interfaces
+	url = https://github.com/ros2/rcl_interfaces.git
+[submodule "ros2/rolling/src/ros2/rosidl_python"]
+	path = ros2/rolling/src/ros2/rosidl_python
+	url = https://github.com/ros2/rosidl_python.git
+[submodule "ros2/rolling/src/ros2/message_filters"]
+	path = ros2/rolling/src/ros2/message_filters
+	url = https://github.com/ros2/message_filters.git
+[submodule "ros2/rolling/src/ros2/mimick_vendor"]
+	path = ros2/rolling/src/ros2/mimick_vendor
+	url = https://github.com/ros2/mimick_vendor.git
+[submodule "ros2/rolling/src/ros2/rosidl"]
+	path = ros2/rolling/src/ros2/rosidl
+	url = https://github.com/ros2/rosidl.git
+[submodule "ros2/rolling/src/ros2/performance_test_fixture"]
+	path = ros2/rolling/src/ros2/performance_test_fixture
+	url = https://github.com/ros2/performance_test_fixture.git
+[submodule "ros2/rolling/src/ros2/rcutils"]
+	path = ros2/rolling/src/ros2/rcutils
+	url = https://github.com/ros2/rcutils.git
+[submodule "ros2/rolling/src/ros2/common_interfaces"]
+	path = ros2/rolling/src/ros2/common_interfaces
+	url = https://github.com/ros2/common_interfaces.git
+[submodule "ros2/rolling/src/ros2/rosidl_typesupport"]
+	path = ros2/rolling/src/ros2/rosidl_typesupport
+	url = https://github.com/ros2/rosidl_typesupport.git
+[submodule "ros2/rolling/src/ros2/tlsf"]
+	path = ros2/rolling/src/ros2/tlsf
+	url = https://github.com/ros2/tlsf.git
+[submodule "ros2/rolling/src/ros2/console_bridge_vendor"]
+	path = ros2/rolling/src/ros2/console_bridge_vendor
+	url = https://github.com/ros2/console_bridge_vendor.git
+[submodule "ros2/rolling/src/ros2/tinyxml_vendor"]
+	path = ros2/rolling/src/ros2/tinyxml_vendor
+	url = https://github.com/ros2/tinyxml_vendor.git
+[submodule "ros2/rolling/src/ros2/rmw_dds_common"]
+	path = ros2/rolling/src/ros2/rmw_dds_common
+	url = https://github.com/ros2/rmw_dds_common.git
+[submodule "ros2/rolling/src/ros2/rcpputils"]
+	path = ros2/rolling/src/ros2/rcpputils
+	url = https://github.com/ros2/rcpputils.git
+[submodule "ros2/rolling/src/ros2/geometry2"]
+	path = ros2/rolling/src/ros2/geometry2
+	url = https://github.com/ros2/geometry2.git
+[submodule "ros2/rolling/src/ros2/ros2cli"]
+	path = ros2/rolling/src/ros2/ros2cli
+	url = https://github.com/ros2/ros2cli.git
+[submodule "ros2/rolling/src/ros2/rosidl_runtime_py"]
+	path = ros2/rolling/src/ros2/rosidl_runtime_py
+	url = https://github.com/ros2/rosidl_runtime_py.git
+[submodule "ros2/rolling/src/ros2/rmw_implementation"]
+	path = ros2/rolling/src/ros2/rmw_implementation
+	url = https://github.com/ros2/rmw_implementation.git
+[submodule "ros2/rolling/src/ros2/rcl_logging"]
+	path = ros2/rolling/src/ros2/rcl_logging
+	url = https://github.com/ros2/rcl_logging.git
+[submodule "ros2/rolling/src/ros2/rmw_fastrtps"]
+	path = ros2/rolling/src/ros2/rmw_fastrtps
+	url = https://github.com/ros2/rmw_fastrtps.git
+[submodule "ros2/rolling/src/ros2/rosidl_defaults"]
+	path = ros2/rolling/src/ros2/rosidl_defaults
+	url = https://github.com/ros2/rosidl_defaults.git
+[submodule "ros2/rolling/src/ros2/spdlog_vendor"]
+	path = ros2/rolling/src/ros2/spdlog_vendor
+	url = https://github.com/ros2/spdlog_vendor.git
+[submodule "ros2/rolling/src/ros2/rviz"]
+	path = ros2/rolling/src/ros2/rviz
+	url = https://github.com/ros2/rviz.git
+[submodule "ros2/rolling/src/ros2/rpyutils"]
+	path = ros2/rolling/src/ros2/rpyutils
+	url = https://github.com/ros2/rpyutils.git
+[submodule "ros2/rolling/src/ros2/orocos_kdl_vendor"]
+	path = ros2/rolling/src/ros2/orocos_kdl_vendor
+	url = https://github.com/ros2/orocos_kdl_vendor.git
+[submodule "ros2/rolling/src/ros2/rosbag2"]
+	path = ros2/rolling/src/ros2/rosbag2
+	url = https://github.com/ros2/rosbag2.git
+[submodule "ros2/rolling/src/ros2/example_interfaces"]
+	path = ros2/rolling/src/ros2/example_interfaces
+	url = https://github.com/ros2/example_interfaces.git
+[submodule "ros2/rolling/src/ros2/ros2cli_common_extensions"]
+	path = ros2/rolling/src/ros2/ros2cli_common_extensions
+	url = https://github.com/ros2/ros2cli_common_extensions.git
+[submodule "ros2/rolling/src/ros2/ros_testing"]
+	path = ros2/rolling/src/ros2/ros_testing
+	url = https://github.com/ros2/ros_testing.git
+[submodule "ros2/rolling/src/ros2/examples"]
+	path = ros2/rolling/src/ros2/examples
+	url = https://github.com/ros2/examples.git
+[submodule "ros2/rolling/src/ros2/rmw"]
+	path = ros2/rolling/src/ros2/rmw
+	url = https://github.com/ros2/rmw.git
+[submodule "ros2/rolling/src/ros2/urdf"]
+	path = ros2/rolling/src/ros2/urdf
+	url = https://github.com/ros2/urdf.git
+[submodule "ros2/rolling/src/ros2/rmw_cyclonedds"]
+	path = ros2/rolling/src/ros2/rmw_cyclonedds
+	url = https://github.com/ros2/rmw_cyclonedds.git
+[submodule "ros2/rolling/src/ros2/rclpy"]
+	path = ros2/rolling/src/ros2/rclpy
+	url = https://github.com/ros2/rclpy.git
+[submodule "ros2/rolling/src/ament/uncrustify_vendor"]
+	path = ros2/rolling/src/ament/uncrustify_vendor
+	url = https://github.com/ament/uncrustify_vendor.git
+[submodule "ros2/rolling/src/ament/googletest"]
+	path = ros2/rolling/src/ament/googletest
+	url = https://github.com/ament/googletest.git
+[submodule "ros2/rolling/src/ament/ament_cmake"]
+	path = ros2/rolling/src/ament/ament_cmake
+	url = https://github.com/ament/ament_cmake.git
+[submodule "ros2/rolling/src/ament/google_benchmark_vendor"]
+	path = ros2/rolling/src/ament/google_benchmark_vendor
+	url = https://github.com/ament/google_benchmark_vendor.git
+[submodule "ros2/rolling/src/ament/ament_package"]
+	path = ros2/rolling/src/ament/ament_package
+	url = https://github.com/ament/ament_package.git
+[submodule "ros2/rolling/src/ament/ament_lint"]
+	path = ros2/rolling/src/ament/ament_lint
+	url = https://github.com/ament/ament_lint.git
+[submodule "ros2/rolling/src/ament/ament_index"]
+	path = ros2/rolling/src/ament/ament_index
+	url = https://github.com/ament/ament_index.git
+[submodule "ros2/rolling/src/ros-tooling/libstatistics_collector"]
+	path = ros2/rolling/src/ros-tooling/libstatistics_collector
+	url = https://github.com/ros-tooling/libstatistics_collector.git
+[submodule "ros2/rolling/src/ros-tooling/keyboard_handler"]
+	path = ros2/rolling/src/ros-tooling/keyboard_handler
+	url = https://github.com/ros-tooling/keyboard_handler.git
+[submodule "ros2/rolling/src/eclipse-cyclonedds/cyclonedds"]
+	path = ros2/rolling/src/eclipse-cyclonedds/cyclonedds
+	url = https://github.com/eclipse-cyclonedds/cyclonedds.git
+[submodule "ros2/rolling/src/ros-planning/navigation_msgs"]
+	path = ros2/rolling/src/ros-planning/navigation_msgs
+	url = https://github.com/ros-planning/navigation_msgs.git
+[submodule "ros2/ros_gz/src/Garden/ros_gz"]
+	path = ros2/ros_gz/src/Garden/ros_gz
+	url = https://github.com/gazebosim/ros_gz.git
+[submodule "ros2/ros_gz/src/Fortress/ros_gz"]
+	path = ros2/ros_gz/src/Fortress/ros_gz
+	url = https://github.com/gazebosim/ros_gz.git
+[submodule "gazebo/Garden/src/gz-msgs"]
+	path = gazebo/Garden/src/gz-msgs
+	url = https://github.com/gazebosim/gz-msgs
+[submodule "gazebo/Garden/src/gz-common"]
+	path = gazebo/Garden/src/gz-common
+	url = https://github.com/gazebosim/gz-common
+[submodule "gazebo/Garden/src/gz-utils"]
+	path = gazebo/Garden/src/gz-utils
+	url = https://github.com/gazebosim/gz-utils
+[submodule "gazebo/Garden/src/gz-transport"]
+	path = gazebo/Garden/src/gz-transport
+	url = https://github.com/gazebosim/gz-transport
+[submodule "gazebo/Garden/src/gz-cmake"]
+	path = gazebo/Garden/src/gz-cmake
+	url = https://github.com/gazebosim/gz-cmake
+[submodule "gazebo/Garden/src/sdformat"]
+	path = gazebo/Garden/src/sdformat
+	url = https://github.com/gazebosim/sdformat
+[submodule "gazebo/Garden/src/gz-sim"]
+	path = gazebo/Garden/src/gz-sim
+	url = https://github.com/gazebosim/gz-sim
+[submodule "gazebo/Garden/src/gz-plugin"]
+	path = gazebo/Garden/src/gz-plugin
+	url = https://github.com/gazebosim/gz-plugin
+[submodule "gazebo/Garden/src/gz-fuel-tools"]
+	path = gazebo/Garden/src/gz-fuel-tools
+	url = https://github.com/gazebosim/gz-fuel-tools
+[submodule "gazebo/Garden/src/gz-physics"]
+	path = gazebo/Garden/src/gz-physics
+	url = https://github.com/gazebosim/gz-physics
+[submodule "gazebo/Garden/src/gz-sensors"]
+	path = gazebo/Garden/src/gz-sensors
+	url = https://github.com/gazebosim/gz-sensors
+[submodule "gazebo/Garden/src/gz-launch"]
+	path = gazebo/Garden/src/gz-launch
+	url = https://github.com/gazebosim/gz-launch
+[submodule "gazebo/Garden/src/gz-math"]
+	path = gazebo/Garden/src/gz-math
+	url = https://github.com/gazebosim/gz-math
+[submodule "gazebo/Garden/src/gz-tools"]
+	path = gazebo/Garden/src/gz-tools
+	url = https://github.com/gazebosim/gz-tools
+[submodule "gazebo/Garden/src/gz-gui"]
+	path = gazebo/Garden/src/gz-gui
+	url = https://github.com/gazebosim/gz-gui
+[submodule "gazebo/Garden/src/gz-rendering"]
+	path = gazebo/Garden/src/gz-rendering
+	url = https://github.com/gazebosim/gz-rendering
+[submodule "gazebo/Fortress/src/gz-msgs"]
+	path = gazebo/Fortress/src/gz-msgs
+	url = https://github.com/gazebosim/gz-msgs
+[submodule "gazebo/Fortress/src/gz-common"]
+	path = gazebo/Fortress/src/gz-common
+	url = https://github.com/gazebosim/gz-common
+[submodule "gazebo/Fortress/src/gz-utils"]
+	path = gazebo/Fortress/src/gz-utils
+	url = https://github.com/gazebosim/gz-utils
+[submodule "gazebo/Fortress/src/gz-transport"]
+	path = gazebo/Fortress/src/gz-transport
+	url = https://github.com/gazebosim/gz-transport
+[submodule "gazebo/Fortress/src/gz-cmake"]
+	path = gazebo/Fortress/src/gz-cmake
+	url = https://github.com/gazebosim/gz-cmake
+[submodule "gazebo/Fortress/src/sdformat"]
+	path = gazebo/Fortress/src/sdformat
+	url = https://github.com/gazebosim/sdformat
+[submodule "gazebo/Fortress/src/gz-sim"]
+	path = gazebo/Fortress/src/gz-sim
+	url = https://github.com/gazebosim/gz-sim
+[submodule "gazebo/Fortress/src/gz-plugin"]
+	path = gazebo/Fortress/src/gz-plugin
+	url = https://github.com/gazebosim/gz-plugin
+[submodule "gazebo/Fortress/src/gz-fuel-tools"]
+	path = gazebo/Fortress/src/gz-fuel-tools
+	url = https://github.com/gazebosim/gz-fuel-tools
+[submodule "gazebo/Fortress/src/gz-physics"]
+	path = gazebo/Fortress/src/gz-physics
+	url = https://github.com/gazebosim/gz-physics
+[submodule "gazebo/Fortress/src/gz-sensors"]
+	path = gazebo/Fortress/src/gz-sensors
+	url = https://github.com/gazebosim/gz-sensors
+[submodule "gazebo/Fortress/src/gz-launch"]
+	path = gazebo/Fortress/src/gz-launch
+	url = https://github.com/gazebosim/gz-launch
+[submodule "gazebo/Fortress/src/gz-math"]
+	path = gazebo/Fortress/src/gz-math
+	url = https://github.com/gazebosim/gz-math
+[submodule "gazebo/Fortress/src/gz-tools"]
+	path = gazebo/Fortress/src/gz-tools
+	url = https://github.com/gazebosim/gz-tools
+[submodule "gazebo/Fortress/src/gz-gui"]
+	path = gazebo/Fortress/src/gz-gui
+	url = https://github.com/gazebosim/gz-gui
+[submodule "gazebo/Fortress/src/gz-rendering"]
+	path = gazebo/Fortress/src/gz-rendering
+	url = https://github.com/gazebosim/gz-rendering
